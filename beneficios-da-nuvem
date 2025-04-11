@@ -6,18 +6,16 @@ Objetivo :
 + Benefícios da SEGURANÇA e da GOVERNANÇA na nuvem;
 + Benefícios da CAPACIDADE DE GERENCIAMENTO na nuvem.
 
-1-) CONFIABILIDADE :
-Resiliência é a capacidade que um sistema tem de se recuperar de falhas e continuar funcionando. 
-Ela também é um dos pilares do Microsoft Azure Well-Architected Framework.
-
-Devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente. 
-Com um design descentralizado, a nuvem permite que você tenha recursos implantados em várias regiões do mundo. 
+1) CONFIABILIDADE :
+Resiliência é a capacidade que um sistema tem de se recuperar de falhas e continuar funcionando. Ela também é um dos pilares do 
+Microsoft Azure Well-Architected Framework.Devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura 
+confiável e resiliente. Com um design descentralizado, a nuvem permite que você tenha recursos implantados em várias regiões do mundo. 
 Com essa escala global, mesmo que ocorra um evento catastrófico em uma região, as outras regiões ainda estarão em funcionamento. 
-Você pode criar aplicativos para aproveitar automaticamente essa confiabilidade maior. 
-Em alguns casos, o próprio ambiente de nuvem mudará automaticamente para uma região diferente, sem que você precise realizar nenhuma ação. 
-Você entenderá melhor como o Azure aproveita a escala global para oferecer confiabilidade mais adiante nesta série.
+Você pode criar aplicativos para aproveitar automaticamente essa confiabilidade maior. Em alguns casos, o próprio ambiente de nuvem mudará 
+automaticamente para uma região diferente, sem que você precise realizar nenhuma ação. Você entenderá melhor como o Azure aproveita a escala 
+global para oferecer confiabilidade mais adiante nesta série.
 
-2-) PREVISIBILIDADE :
+2) PREVISIBILIDADE :
 A previsibilidade na nuvem permite que você avance com confiança. 
 A previsibilidade pode se concentrar na previsibilidade de desempenho ou na previsibilidade de custo.
 Tanto a previsibilidade de desempenho quanto a de custo são bastante influenciadas pelo Microsoft Azure Well-Architected Framework. 
@@ -36,6 +34,10 @@ monitorar os recursos para garantir a maior eficiência de uso possível e aplic
 planejar melhor as implantações de recursos. Operando na nuvem e usando a análise e as informações da nuvem, você pode prever custos futuros e ajustar 
 os recursos conforme o necessário. Você pode até mesmo usar ferramentas como TCO (custo total de propriedade) ou a Calculadora de Preços para obter uma 
 estimativa de possíveis gastos com a nuvem.
+
+3) BENEFÍCIOS DA SEGURANÇA E DA GOVERNANÇA NA NUVEM :
+Se você estiver implantando a infraestrutura como serviço ou software como serviço, os recursos de nuvem vão dar suporte à governança e à conformidade.
+
 
 
 
